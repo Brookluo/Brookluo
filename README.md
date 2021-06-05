@@ -1,5 +1,15 @@
-#  :wave: Hello there, welcome!
+#  :wave: Hi there, welcome!
 
-I'm Yufeng, an Astro/CS student. You can also call me Brook.:grin:
+I'm Yufeng Luo, an Astro/CS student. You can also call me Brook.:grin:
 
-Currently looking for a PhD position, please feel free to contact me for my CV and/or statement if you are interested!
+I have passions for so many things, and I absolutly love:
+- :cactus::bulb: Nature and Science (why [cactus](http://www.cactuscode.org)?)
+- :camera: Photography
+- :telescope: Clear night sky and Stargazing
+- :coffee: Coffee!!!
+
+I am also a supporter for open-source and reproducible science. 
+
+Want to have a coffee chat? Shoot me an email :mailbox: <brookluo@yhaoo.com>
+
+I would love to talk about anything, or even about coffee!

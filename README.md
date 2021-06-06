@@ -12,4 +12,4 @@ I am also a supporter for open-source and reproducible science.
 
 Want to have a coffee chat? Shoot me an email :mailbox: <brookluo@yhaoo.com>
 
-I would love to talk about anything, or even about coffee!
+I would love to talk about anything, or simply about coffee!
